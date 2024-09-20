@@ -4,13 +4,13 @@
 
 ## Features
 
-• **Add Notes**: Quickly add new notes via a clean, intuitive interface.
-• **View Notes**: All saved notes are displayed in a list. You can also access each note in detail with scrolling functionality.
-• **Persistent Storage**: Notes are saved locally on the Apple Watch using JSON encoding and are automatically loaded when the app is opened.
-• **Customizable View**: In the settings, users can adjust how many lines of text are displayed for each note in the list view.
-• **Delete Notes**: Swipe to delete notes from the list.
-• **Detail View**: View each note in more detail and scroll through longer text entries.
-• **Credits and Settings**: Additional screens for app information and customizable settings.
+• **Add Notes**: Quickly add new notes via a clean, intuitive interface.<br />
+• **View Notes**: All saved notes are displayed in a list. You can also access each note in detail with scrolling functionality.<br />
+• **Persistent Storage**: Notes are saved locally on the Apple Watch using JSON encoding and are automatically loaded when the app is opened.<br />
+• **Customizable View**: In the settings, users can adjust how many lines of text are displayed for each note in the list view.<br />
+• **Delete Notes**: Swipe to delete notes from the list.<br />
+• **Detail View**: View each note in more detail and scroll through longer text entries.<br />
+• **Credits and Settings**: Additional screens for app information and customizable settings.<br />
 
 ## Screenshots
 
